@@ -1,4 +1,4 @@
-# Water Trails Precipitation Data Analysis
+# Water Trails Precipitation Data Analysis [Only the publicly available data are attached to this repo] 
 
 ## Introduction
 
